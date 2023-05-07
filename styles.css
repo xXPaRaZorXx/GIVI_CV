@@ -1,0 +1,375 @@
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('text/LEMONMILK-Regular.otf');
+}
+
+body{
+    font-family: 'LEMON MILK', sans-serif;
+    color: #FFFFFF;
+    background: #121212;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+#GIVI{
+    width: 1600px;
+    height: 800px;
+    margin: auto;
+}
+
+.leng_en{
+    font-size: 20px;
+    margin-left:187px;
+    margin-top:10px;
+}
+.leng_ua{
+    font-size: 20px;
+    margin-left:187px;
+}
+
+.internet_logo{
+    position: absolute;
+    margin-left:189px;
+    width: 25px;
+    height: auto;
+}
+
+.frame{
+    position: absolute;
+    width: 216px;
+    height: 87px;
+    margin-top: 40px;
+    margin-left:1184px;
+    margin-right: 200px;
+    font-size: 16px;
+}
+
+.menu_1{
+    position: absolute;
+    width: 590px;
+    margin-top: 40px;
+    margin-left:200px;
+    font-size: 16px;
+}
+
+.about_me{
+    display: inline-block;
+    margin-right: 64px;
+    margin-left:78px;
+}
+
+.my_advantages{
+    display: inline-block;
+    margin-right: 64px;
+}
+
+.contact{
+    display: inline-block;
+}
+
+.text_logo{
+    position: absolute;
+    width: 460px;
+    height: 349px;
+    margin-left: 330px;
+    margin-top: 226px;
+    padding: 0px;
+}
+
+.logo_name{
+    width: 286px;
+    height: 115px;
+
+    margin-left: 144px;
+    margin-right: 30px;
+    font-size: 100px;
+    line-height: 135px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center
+}
+
+.logo_text{
+    position: absolute;
+    width: 400px;
+    height: 154px;
+
+    margin-left: 30px;
+    margin-right: 30px;
+    bottom:0;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: right;
+}
+
+.con_foto_logo{
+    position: absolute;
+    overflow: hidden;
+    margin-left: 800px;
+    height: 800px;
+    width: 295px;
+}
+
+.givi_1{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.footer_logo{
+    position: absolute;
+    width: 590px;
+    margin-top: 738px;
+    margin-left:200px;
+    font-size: 16px;
+}
+
+.instagram{
+    display: inline-block;
+    margin-right: 64px;
+    margin-left:78px
+}
+
+.behance{
+    display: inline-block;
+    margin-right: 64px;
+}
+
+.telegram{
+    display: inline-block;
+}
+
+.stt1{
+    position: absolute;
+    margin-left: 510px;
+    margin-top: 180px;
+}
+
+.stt2{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 560px;
+}
+
+.stt3{
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 455px;
+}
+
+#about_me{
+    width: 1600px;
+    height: 800px;
+    margin: auto;
+}
+
+.name_2{
+    position: absolute;
+    margin-left: 287px;
+    margin-top: 40px;
+}
+
+.menu_2{
+    position: absolute;
+    width: 590px;
+    margin-top: 40px;
+    margin-left:810px;
+    font-size: 16px;
+}
+
+.me_name{
+    position: absolute;
+    width: 550px;
+    font-size: 100px;
+    margin-left: 619px;
+    margin-top: 198px;
+    z-index: 1;
+}
+
+.me_text{
+    position: absolute;
+    width: 400px;
+    height: 154px;
+
+    margin-left: 830px;
+    margin-top: 413px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+}
+
+.con_foto_me{
+    position: relative;
+    overflow: hidden;
+    margin-left: 500px;
+    height: 800px;
+    width: 295px;
+}
+
+.givi_2{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.stt4{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 560px;
+}
+
+.stt5{
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 455px;
+}
+
+#advantages{
+    width: 1600px;
+    height: 800px;
+    margin: auto;
+}
+
+.name_3{
+    position: absolute;
+    margin-left: 1184px;
+    margin-top: 40px;
+}
+
+.advantages_name{
+    position: absolute;
+    width: 683px;
+    font-size: 100px;
+    margin-left: 220px;
+    margin-top: 226px;
+    z-index: 1;
+}
+
+.advantages_text{
+    position: absolute;
+    width: 400px;
+    height: 308px;
+
+    margin-left: 360px;
+    margin-top: 411px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: right;
+}
+
+.givi_3{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.stt6{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 560px;
+}
+
+.stt7{
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 461px;
+}
+
+#contact{
+    width: 1600px;
+    height: 300px;
+    margin: auto;
+}
+
+.contact_name{
+    position: absolute;
+    width: 550px;
+    font-size: 100px;
+    margin-left: 235px;
+    margin-top: 83px;
+    z-index: 1;
+}
+
+.contact_soc{
+    position: absolute;
+    width: 229px;
+    height: 159px;
+    margin-left: 812px;
+    margin-top: 74px;
+}
+
+.soc{
+    position: absolute;
+    width: 40px;
+    height: 152px;
+}
+
+.text_soc{
+    position: absolute;
+    width: 149px;
+    height: 152px;
+    margin-left: 80px;
+}
+
+.in_text{
+    margin-top: 9px;
+}
+
+.te_text{
+    margin-top: 40px;
+}
+
+.be_text{
+    margin-top: 45px;
+    width: 150px;
+}
+
+.tel{
+    margin-top: 16px;
+}
+
+.beha{
+    position: absolute;
+    margin-top: 16px;
+    width: 40px;
+    height: 40px;
+}
+
+.be{
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 5px;
+}
+
+.bor_be{
+    width: 40px;
+    height: 40px;
+}
+
+.stt8{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.stt9{
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 50px;
+}
